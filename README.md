@@ -40,7 +40,7 @@ I am dedicated to contributing to open-source projects and striving to make mean
 ## 📊 Stats
 
 ![muskangupta's Stats](https://github-readme-stats.vercel.app/api?username=Muskan6803&theme=slateorange&show_icons=true&hide_border=true&count_private=false)
-![GitHub Streak](https://streak-stats.demolab.com?user=muskan6803&theme=slateorange&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Muskan6803&theme=slateorange&hide_border=true)
 ![muskangupta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muskan6803&theme=slateorange&show_icons=true&hide_border=true&layout=compact)
 
 # Visit My Youtube Channel
